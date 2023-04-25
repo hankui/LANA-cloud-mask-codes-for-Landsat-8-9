@@ -15,6 +15,7 @@ Included files:
 		-csv file storing the mean and standard deviation values for each band used for normalization
 	* v31_4.epoch100.batch64.M1.test1.model.h5
 		-trained CNN model with h5 format
+		-note this file could be in https://zenodo.org/record/7786456#.ZEf693aZNaQ due to the file size limitation in github
 
 **************************************************************************************************************
 Perparation:
